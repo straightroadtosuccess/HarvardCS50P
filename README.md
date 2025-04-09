@@ -82,10 +82,4 @@ To quickly set up a local working environment containing `style50`, `check50`, a
 
 - Seasons of Love: https://cs50.harvard.edu/python/2022/psets/8/seasons/
 - Cookie Jar: https://cs50.harvard.edu/python/2022/psets/8/jar/
-- CS50 Shirtificate: https://cs50.harvard.edu/python/2022/psets/8/shirtificate/
-
-# Concerns
-I like to share my progress which also helps motivate
-me to finish the course faster. Although if any directors 
-of the course want me to take this down I will gladly do so, 
-just shoot me a message via <heytristaann@gmail.com>
+- CS50 Certificate: https://cs50.harvard.edu/python/2022/psets/8/shirtificate/
