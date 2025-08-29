@@ -1,7 +1,7 @@
 
 <img width="1051" height="812" alt="CS50P Certificate" src="https://github.com/user-attachments/assets/d5adc14d-429c-4442-bef1-aa765da5eb92" />
 
-# CS50P 2022 ![Stars].io/github/stars/straightroadtosuccess/HarvardCS50P?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/straightroadtosuccess/HarvardCS50P?label=Watchers)
+# CS50P 2022 ![Stars](https://img.shields.io/github/stars/straightroadtosuccess/CS50P?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/straightroadtosuccess/CS50P?label=Watchers)
 ![Untitled-2](https://user-images.githubusercontent.com/75189508/194149777-f63aa3eb-0455-4982-8b18-199bc6e6c156.png)
 
 # About CS50P
