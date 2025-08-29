@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Essentialism",
+    "author": "Greg McKeown",
+    "read": true
+  },
+  {
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "read": false
+  },
+  {
+    "title": "Rework",
+    "author": "Jason Fried",
+    "read": false
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "read": true
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "read": true
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "read": false
+  },
+  {
+    "title": "Principles",
+    "author": "Ray Dalio",
+    "read": false
+  },
+  {
+    "title": "Tools of Titans",
+    "author": "Tim Ferriss",
+    "read": false
+  },
+  {
+    "title": "Designing Your Life",
+    "author": "Bill Burnett",
+    "read": true
+  },
+  {
+    "title": "The God Particle",
+    "author": "Leon Lederman",
+    "read": false
+  },
+  {
+    "title": "Book",
+    "author": "Author",
+    "read": true
+  }
+]
